@@ -11,7 +11,7 @@ from discord.ext import commands
 from datetime import datetime
 
 
-token = "Nzg4MTM1NTY1MTM1NzA4MTgw.X9fGcQ.FxGUIa8vTa0y48GpF4MnUhNKDDY"
+token = ""
 
 imagePath = "D:\\Amazing\\"
 
